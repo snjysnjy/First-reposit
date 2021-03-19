@@ -1,7 +1,4 @@
-# First-reposit
-This is my first
-
-
+Sanjay
 Still So Much To Learn
 Think40
 Skills
@@ -13,18 +10,7 @@ Banner logo
 Here is your chance to improve coverage of Indian culinary diversity on Wikipedia.
 Submit photographs and win prizes!
 
-More details[Help with translations!]
-Page semi-protected
-Wikipedia
-From Wikipedia, the free encyclopedia
-Jump to navigationJump to search
-This article is about Wikipedia. For Wikipedia's home page, see Main Page. For the English edition, see English Wikipedia. For other uses, see Wikipedia (disambiguation).
-Wikipedia
-An incomplete sphere made of large, white, jigsaw puzzle pieces. Each puzzle piece contains one glyph from a different writing system, with each glyph written in black.
-The Wikipedia wordmark which displays the name Wikipedia, written in all caps. The W and the A are the same height and both are taller than the other letters which are also all the same height.
-The logo of Wikipedia, a globe featuring glyphs from various writing systems
-Screenshot
-Type of site	Online encyclopedia
+	Online encyclopedia
 Available in	321 languages
 Country of origin	United States
 Owner	Wikimedia Foundation
