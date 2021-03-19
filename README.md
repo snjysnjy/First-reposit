@@ -1,6 +1,7 @@
 # First-reposit
 This is my first
 
+
 Still So Much To Learn
 Think40
 Skills
@@ -13,22 +14,12 @@ Playbook
 
 Sign In
 w3 Resources
-Search w3 places and BluePages
-
-
-Go to w3 Home
-
-People skills will be the biggest trend transforming the workplace. Even in our most technical roles at IBM.
-
-- Obed Louissaint, Senior Vice President, Transformation & Culture
+Search w3 
 
 Why People Skills?
 As per the 2020 Future of Jobs survey, the top 6 of the top 15 skills of 2025 are People Skills; Take a look at the report attached. Additionally, there are 11 People skills among the top 15 skills of 25.
 As per the 2019 Global Talent Trends study by LinkedIn, 91% of Talent Professionals surveyed said People Skills will be the biggest trend transforming the workplace
-The recent IBM Business Value study published in Sept 2019, also highlights the re-emerging importance of People Skills - "after fluctuating in importance, CEOs are now laser-focused on people skills as a key force impacting their organization"
-As per the IBM Watson AI Labs, MIT study in Nov. 2019,  As Technology reduces the cost of some tasks, tasks that require People skills (flexibility, common sense, judgment, intuition, creativity, and communication) will tend to increase in value
-EXPLORE ON YOUR LEARNING
-2020 Future of jobs Survey Report
+The recen
 
 People Skills Badge-1
 
@@ -38,6 +29,7 @@ KNOW MORE
 
 People Skills Badge-2
 
+This badge earner has understanding and has applied key People Skills ("soft skills" in this context) for personal and professional success. T
 This badge earner understands applies knowledge about how you can rewire your brain to be open to continuous learning, manage your time much more effectively, practice Mindfulness and understand various techniques which will enable you to handle challenges, bounce back smarter and stronger, and thrive in the face of stressors, changing demands and opportunities.
 
 KNOW MORE
